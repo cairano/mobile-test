@@ -31,4 +31,4 @@
 
 ## telas sugeridas
 
-![alt text](Tela1.png) ___ ![alt text](Tela2.png)
+![Tela1](Tela1.png) ___ ![Tela2](Tela2.png)
