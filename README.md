@@ -1,4 +1,4 @@
-# ios-test
+# mobile-test
 
 ## será avaliado
 
@@ -8,7 +8,7 @@
 
 ## requisitos
 
-* a solução deverá ser desenvolvida em Swift;
+* a solução poderá ser desenvolvida em uma linguagem da sua escolha: **Swift** ou **Kotlin**;
 * uma outra pessoa estará lendo o que você fez, portanto, lembre-se de buscar trazer a semântica do problema no seu código;
 * crie testes;
 * não é necessário usar nenhum framework, utilize os recursos da linguagem;
