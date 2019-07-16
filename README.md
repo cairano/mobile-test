@@ -8,8 +8,7 @@
 
 ## requisitos
 
-* a solução poderá ser desenvolvida em uma linguagem da sua escolha: **Swift** ou **Kotlin**;
-* uma outra pessoa estará lendo o que você fez, portanto, lembre-se de buscar trazer a semântica do problema no seu código;
+* desenvolva a solução em uma linguagem da sua escolha: **Swift** ou **Kotlin**;
 * crie testes;
 * não é necessário usar nenhum framework, utilize os recursos da linguagem;
 * a comunicação deve ser feita utilizando APIs; 
