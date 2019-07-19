@@ -13,8 +13,8 @@
 * não é necessário usar nenhum framework, utilize os recursos da linguagem;
 * a comunicação deve ser feita utilizando APIs; 
 * coloque sua solução em um repositório GitHub;
-* crie um arquivo `leiame.txt` se precisar adicionar qualquer comentário/observação que achar importante;
-* envie o link do projeto por e-mail quando terminar;
+* se precisar adicionar qualquer comentário/observação que achar importante, crie um arquivo `leiame.txt`;
+* quando terminar, envie o link do projeto por e-mail;
 * seja criativo!
 
 ## orientações
