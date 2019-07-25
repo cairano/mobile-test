@@ -8,19 +8,19 @@
 
 ## requisitos
 
-* desenvolva a solução em uma linguagem da sua escolha: **Swift** ou **Kotlin**;
-* crie testes;
+* desenvolva a solução usando **Swift** ou **Kotlin**;
 * não é necessário usar nenhum framework, utilize os recursos da linguagem;
 * a comunicação deve ser feita utilizando APIs; 
+* crie testes;
 * coloque sua solução em um repositório GitHub;
-* se precisar adicionar qualquer comentário/observação que achar importante, crie um arquivo `leiame.txt`;
+* utilize o arquivo `README.md` para descrever seu raciocínio, lógica e detalhes da solução;
 * quando terminar, envie o link do projeto por e-mail;
 * seja criativo!
 
 ## orientações
 
 * crie um modelo de JSON que faça sentido para construção da tela;
-* o cliente irá selecionar entre uma conta corrente ou conta poupança para debito do valor a ser transferido;
+* o cliente irá selecionar entre uma conta corrente ou poupança para debito do valor a ser transferido;
 * você pode ter quantos contatos quiser, mas eles precisam estar ordenados;
 * para transferir, o cliente precisa selecionar uma conta origem e um contato;
 * o cliente será direcionado para uma segunda tela, onde vai informar o valor e confirmar a transferência;
